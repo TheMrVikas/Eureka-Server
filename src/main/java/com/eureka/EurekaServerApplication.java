@@ -10,7 +10,7 @@ public class EurekaServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaServerApplication.class, args);
-		System.out.println("git commited");  
+		System.err.println("************************* Eureka server Started ****************************");  
 	}
 
 }
